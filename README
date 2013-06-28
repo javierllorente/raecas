@@ -1,0 +1,15 @@
+raecas - Plasmoide para consultar el diccionario castellano de la RAE
+
+** Instalación **
+
+Para compilar el código fuente:
+cd raecas
+cmake -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix`
+make
+make install
+
+Javier Llorente <javier@opensuse.org>
+http://www.javierllorente.com/
+
+
+

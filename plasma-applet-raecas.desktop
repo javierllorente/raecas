@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=RAE dictionary
+Comment=Castilian RAE dictionary
+Name[es]=Diccionario de la RAE
+Comment[es]=Diccionario castellano de la RAE
+Type=Service
+Icon=raecas
+
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-Library=plasma_applet_raecas
+X-KDE-PluginInfo-Name=raecas
+X-KDE-PluginInfo-Category=Language
+X-KDE-PluginInfo-Author=Javier Llorente
+X-KDE-PluginInfo-Email=javier@opensuse.org
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://www.javierllorente.com/
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
