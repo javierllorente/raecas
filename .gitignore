@@ -13,8 +13,15 @@
 *.a
 
 # CMake
-CMakeCache.txt
 CMakeFiles
-Makefile
+CMakeTmp
 cmake_install.cmake
-install_manifest.txt
+cmake_uninstall.cmake
+CMakeCache.txt
+CTestTestfile.cmake
+Makefile
+
+# Qt
+plasma_applet_raecas_automoc.cpp
+plasma_applet_raecas_automoc.cpp.files
+raecas.moc
