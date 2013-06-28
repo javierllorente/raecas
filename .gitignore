@@ -19,6 +19,7 @@ cmake_install.cmake
 cmake_uninstall.cmake
 CMakeCache.txt
 CTestTestfile.cmake
+install_manifest.txt
 Makefile
 
 # Qt
