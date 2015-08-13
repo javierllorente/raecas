@@ -1,5 +1,8 @@
 raecas - Plasmoide para consultar el diccionario castellano de la RAE
 
+** Dependencias **
+KDE 4
+
 ** Instalación **
 
 Para compilar el código fuente:
